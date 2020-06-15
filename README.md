@@ -1,4 +1,4 @@
-# HugLife-Simulation-lab5-cs61b
+# UCBerkeley CS61B Lab5
 
 ## Description
 This is project code for [UCBerkeley CS61B lab 5 project: Hug Life](https://sp19.datastructur.es/materials/lab/lab5/lab5)
